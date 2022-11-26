@@ -1,0 +1,13 @@
+.Formulario{
+    font-family:'prompt',sans-serif;
+    text-align: center;
+    background-color:rgb(255, 132, 31);
+    height: 50vh;
+}
+.lottie{
+    background-color:rgb(124, 124, 124);
+    height:  50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
